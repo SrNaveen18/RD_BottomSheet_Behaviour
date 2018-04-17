@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fabb5</color>
+    <color name="colorPrimaryDark">#309b9f</color>
+    <color name="colorAccent">#ceb24d</color>
+    <color name="colorAccentDark">#bca551</color>
+
+    <color name="bg">#EEEEEE</color>
+
+    <color name="selected_tab">#ffffff</color>
+    <color name="un_selected_tab">#d2d1d1</color>
+
+    <color name="trans_parent">#9c000000</color>
+
+    <color name="trans_parent_light">#58262626</color>
+    <color name="trans_parent_bluelight">#793fabb5</color>
+    <color name="trans_parent_bluedark">#b33fabb5</color>
+
+    <color name="cross_fade">#d63737</color>
+
+
+    <color name="color1">#d63737</color>
+    <color name="color2">#0277BD</color>
+    <color name="color3">#424242</color>
+    <color name="color4">#C62828</color>
+    <color name="color5">#FF8F00</color>
+    <color name="color6">#00695C</color>
+</resources>

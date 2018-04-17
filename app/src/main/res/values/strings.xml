@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DesignPrt</string>
+
+    <string name="coordinate_behaviour">com.example.naveen.designprt.widgets.ImageView_behaviour</string>
+
+    <string name="ScrollAwareFABBehavior">com.example.naveen.designprt.googlemap.ScrollAwareFABBehavior</string>
+    <string name="ScrollAwareAppBar">com.example.naveen.designprt.googlemap.ScrollAwareAppBarBehaviour</string>
+
+    <string name="MergedAppBar">com.example.naveen.designprt.googlemap.MergedAppBar</string>
+
+    <string name="BackDropBehavoiur">com.example.naveen.designprt.googlemap.BackDropBehaviour</string>
+
+    BackDropBehaviour
+</resources>
